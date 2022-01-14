@@ -1,0 +1,35 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
+
+.section-one{
+    display: flex;
+    margin: 15px;
+}
+
+.link-button{
+    text-decoration: none;
+    /* background-image: linear-gradient(red, tomato
+    ); */
+    background-color: #E02C6D;
+    padding: 5px 5px;
+    color: white;
+    font-weight: 300;
+    border-radius: 20px;
+}
+
+.div-one{
+    padding-left: 7%;
+     width: 50%;
+ }
+
+
+ .div-one img{
+    width: 80%;
+}
+
+.fas {
+    padding: 15px 20px;
+    margin: 1px;
+}
